@@ -8,6 +8,6 @@ With fast-paced gameplay, and a thrilling sci-fi soundtrack, this space shooter 
 So get ready to blast off into the cosmos and engage in epic battles against the forces of evil!
 
 # Game Preview
-----------------
+
 ![](https://github.com/eldemir18/Space-Shooter-2D/blob/main/gameGif.gif)
 ![](https://github.com/eldemir18/Space-Shooter-2D/blob/main/bossGif.gif)
