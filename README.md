@@ -7,6 +7,7 @@ The game features a variety of play styles with class selection, also allowing p
 With fast-paced gameplay, and a thrilling sci-fi soundtrack, this space shooter is sure to keep players on the edge of their seats. 
 So get ready to blast off into the cosmos and engage in epic battles against the forces of evil!
 
-### Game Preview
+# Game Preview
+----------------
 ![](https://github.com/eldemir18/Space-Shooter-2D/blob/main/gameGif.gif)
 ![](https://github.com/eldemir18/Space-Shooter-2D/blob/main/bossGif.gif)
