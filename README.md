@@ -13,6 +13,4 @@ So get ready to blast off into the cosmos and engage in epic battles against the
 
 Game Preview
 -------------
-
-![](https://github.com/eldemir18/Space-Shooter-2D/blob/main/misc/gameGif.gif)
-![](https://github.com/eldemir18/Space-Shooter-2D/blob/main/misc/bossGif.gif)
+https://swater23.itch.io/space-shooter
